@@ -23,7 +23,7 @@ Hello from Effective Mobile!
 ```
 Client -> Nginx (port 80) -> Backend (port 8080)
 ```
-+ Nginx принемает HTTP-запросы
++ Nginx принимает HTTP-запросы
 + Проксирует их на backend
 + Backend отвечает текстом
 ## Используемые технологии
